@@ -10,5 +10,9 @@
   },
   "devDependencies": {
     "@types/node": "^22.15.3"
+  },
+  "scripts": {
+    "start": "node index.js benschiller",
+    "build": "npm install && echo 'Dependencies installed.'"
   }
 }
