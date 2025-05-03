@@ -58,3 +58,8 @@ The script will then:
 2.  Analyze the collection and generate a taste profile summary.
 3.  Generate personalized bottle recommendations based on the analysis and the provided dataset.
 4.  Print the user's bar contents, the analysis, and the recommendations to the console.
+
+## Demo
+Watch the demo video to see Bob in action:
+
+[![Watch the demo video](https://img.youtube.com/vi/P8kOcnWl1rQ/0.jpg)](https://youtu.be/P8kOcnWl1rQ)
