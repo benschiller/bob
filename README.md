@@ -60,6 +60,9 @@ The script will then:
 4.  Print the user's bar contents, the analysis, and the recommendations to the console.
 
 ## Demo
+
+Hello. I am Ben. I like Bourbon. In my BoozApp virtual bar you will find Four Roses, E.H. Taylor, Michter's, and more. I built this recommendation engine to help me know what I don't know and expand my palette for America's Native Spirit.
+
 Watch the demo video to see Bob in action:
 
 [![Watch the demo video](https://img.youtube.com/vi/P8kOcnWl1rQ/0.jpg)](https://youtu.be/P8kOcnWl1rQ)
